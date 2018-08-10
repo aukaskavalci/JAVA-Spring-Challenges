@@ -10,3 +10,4 @@ This challenge is prepared just to see how tweaker api works how can it be handl
 Next
 ----
 1. Pagination
+2. Cleaning up the code from unnecesary classes.
